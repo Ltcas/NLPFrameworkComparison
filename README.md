@@ -4,4 +4,4 @@ This project aims to compare two popular machine learning frameworks. The framew
 
 ## Installation:
 1. Import the conda environment named environment.yml. This conda environment includes all the necessary libraries to execute the code.
-2. The models can be executed using the Jupyter Notebooks or the source code found in the Python Files folder. In order to run them from the source code files, the files found in the Python Files folder must first be removed and placed next to the Data and Graphs folder.
+2. The models can be executed using the Jupyter Notebooks or the source code found in the Python Files folder. In order to run them from the source code files, the files found in the Python Files folder must first be removed and placed next to the Data and Graphs folders.
